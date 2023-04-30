@@ -1,0 +1,71 @@
+id,brand_name,model_name,os,best_price,lowest_price,screen_size,memory_size,battery_size,url
+1,OnePlus,3T 128GB (Gunmetal),OxygenOS,6991,6195,5.5,128,3400,1.jpeg
+2,OnePlus,5 6/64GB Slate Grey,Android,7333,10000,5.5,64,3300,2.jpeg
+3,Samsung,Galaxy S10+ SM-G975 DS 128GB Black (SM-G975FZKD),Android,17860,13888,6.4,128,4000,3.jpeg
+4,Samsung,Galaxy S10e SM-G970 DS 128GB Black (SM-G970FZKD),Android,16313,15483,5.8,128,3100,4.jpeg
+5,Samsung,Galaxy S20 5G SM-G981 12/128GB Cosmic Gray,Android,20699,7000,6.2,128,4000,5.jpeg
+6,Samsung,Galaxy S20+ 5G SM-G9860 12/128GB Cosmic Black,Android,23302,22580,6.9,128,4500,6.jpeg
+7,Samsung,Galaxy S8 64GB Blue,Android,7864,7640,5.8,64,3000,7.jpeg
+8,Samsung,Galaxy S8+ 64GB Black (SM-G955FZKD),Android,10787,6000,6.2,64,3500,8.jpeg
+9,Samsung,Galaxy S9 SM-G960 DS 128GB Black (SM-G960FZKG),Android,14990,5000,5.8,128,3000,9.jpeg
+10,Samsung,Galaxy S9+ SM-G965 DS 128GB Black,Android,13550,4000,6.2,128,3500,10.jpeg
+11,Xiaomi,Mi Note 10 Lite 6/64GB Purple,Android,8999,3000,6.47,64,5260,11.jpeg
+12,Xiaomi,Mi5 3/32GB Gold,Android,4098,3000,5.15,32,3000,12.jpeg
+13,Motorola,Moto E4 (XT1762) Metallic Iron Gray (PA750058UA),Android,2590,5000,5,16,2800,13.jpeg
+14,OnePlus,Nord 12/256GB Gray Onyx,Android,12985,12670,6.44,256,4115,14.jpeg
+15,OnePlus,Nord N10 5G 6/128GB Midnight Ice,Android,9795,7900,6.49,128,4300,15.jpeg
+16,OnePlus,Nord N100 4/64GB Midnight Frost,Android,6112,5825,6.52,64,5000,16.jpeg
+17,Google,Pixel 128GB (Quite Black),Android,6838,5199,5,128,,17.jpeg
+18,Google,Pixel 2 128GB Just Black,Android,13014,6611,5,128,,18.jpeg
+19,Google,Pixel 2 64GB Just Black,Android,6667,5386,5,64,,19.jpeg
+20,Google,Pixel 2 XL 64GB Just Black,Android,12909,5999,6,64,,20.jpeg
+21,Google,Pixel 3 4/128GB Just Black,Android,13500,7000,5.5,128,,21.jpeg
+22,Google,Pixel 32GB (Quite Black),Android,4729,4699,5,32,,22.jpeg
+23,Google,Pixel 3a XL 4/64GB Just Black,Android,11774,9577,6,64,,23.jpeg
+24,Google,Pixel 4a 5G 6/128GB Just Black,Android,15706,14899,6.24,128,,24.jpeg
+25,Google,Pixel 5 8/128GB Just Black,Android,21879,21150,6,128,,25.jpeg
+26,Google,Pixel XL 128GB (Quite Black),Android,5899,8000,5.5,128,,26.jpeg
+27,Xiaomi,Redmi 10x 4G 4/128GB Blue,Android,5133,4649,6.53,128,2800,27.jpeg
+28,Xiaomi,Redmi 7a 3/32GB Black,Android,3468,3248,5.45,32,6000,28.jpeg
+29,Xiaomi,Redmi 8A 3/32GB Black,Android,3219,7000,6.22,32,4000,29.jpeg
+30,Xiaomi,Redmi Note 6 Pro 3/32GB Blue,Android,3599,4000,6.26,32,5020,30.jpeg
+31,Xiaomi,Redmi Note 7 4/64GB Black,Android,4323,4250,6.3,64,5020,31.jpeg
+32,Xiaomi,Redmi Note 8 3/32GB Blue,Android,4304,4299,6.3,32,5020,32.jpeg
+33,Xiaomi,Redmi Note 9 4/128GB Grey NFC,Android,5648,5399,6.53,128,6000,33.jpeg
+34,Xiaomi,Redmi Note 9 Pro 4/64GB Interstellar Grey,Android,7014,6999,6.67,64,4500,34.jpeg
+35,Xiaomi,Redmi Note 9S 4/64GB Grey,Android,5754,5295,6.67,64,4100,35.jpeg
+36,Xiaomi,Redmi Note 9S 6/128GB Grey,Android,6576,6232,6.67,128,4100,36.jpeg
+37,Xiaomi,Redmi Note 9T 4/128GB Nightfall Black,Android,8442,7780,6.53,128,4100,37.jpeg
+38,OPPO,Reno 4 Lite 8/128GB Magic Blue,Android,10221,8668,6.43,128,4100,38.jpeg
+39,OPPO,Reno2 Z 8/128GB Black,Android,8450,8120,6.5,128,4000,39.jpeg
+40,OPPO,Reno4 Z 5G 8/128GB Black,Android,10974,10750,6.57,128,4000,40.jpeg
+41,Lenovo,S5 4/64GB Pink,Android,3245,3230,5.7,64,5020,41.jpeg
+42,Lenovo,S5 Pro 6/64Gb Blue,Android,3849,2000,6.2,64,5020,42.jpeg
+43,vivo,Y11 3/32GB Agate Red,Android,3497,4500,6.35,32,4350,43.jpeg
+44,vivo,Y15 4/64GB Aqua Blue,Android,4249,3960,6.35,64,4350,44.jpeg
+45,vivo,Y15 4/64GB Burgundy Red,Android,4356,4145,6.35,64,1050,45.jpeg
+46,vivo,Y19 4/128GB Black,Android,4998,4997,6.53,128,1000,46.jpeg
+47,vivo,Y20 4/64GB Nebula Blue,Android,4732,4299,6.51,64,1050,47.jpeg
+48,vivo,Y30 4/64GB Black,Android,4481,4399,6.47,64,3100,48.jpeg
+49,Apple,iPhone 11 64GB Slim Box Black (MHDA3),iOS,21228,19380,6.1,64,800,49.jpeg
+50,Apple,iPhone 11 Pro 256GB Dual Sim Midnight Green (MWDH2),iOS,33505,31199,5.8,256,800,50.jpeg
+51,Apple,iPhone 11 Pro Max 64GB Space Gray (MWGY2,MWHD2),1176,32053,75,6.5,1000,51.jpeg
+52,Apple,iPhone 12 128GB Black (MGJA3/MGHC3),iOS,28735,25380,6.1,128,800,52.jpeg
+53,Apple,iPhone 12 Pro 512GB Pacific Blue (MGMX3/MGM43),iOS,44716,41996,6.1,512,3110,53.jpeg
+54,Apple,iPhone 12 Pro Max 128GB Dual Sim Graphite (MGC03),iOS,37574,35941,6.7,128,3110,54.jpeg
+55,Apple,iPhone 5S 16GB Space Gray (ME432),iOS,4691,3499,4,16,3190,55.jpeg
+56,Apple,iPhone 5S 32GB (Space Gray),iOS,3704,3699,4,32,3969,56.jpeg
+57,Apple,iPhone 6 128GB (Gold),iOS,5250,3200,4.7,128,3969,57.jpeg
+58,Apple,iPhone 6 Plus 16GB (Silver),iOS,5242,5239,5.5,16,64,58.jpeg
+59,Apple,iPhone 6 Plus 64GB Space Gray (MGAH2),iOS,5889,5889,5.5,64,2815,59.jpeg
+60,Apple,iPhone 7 Plus 32GB Black (MNQM2),iOS,12412,8100,5.5,32,3687,60.jpeg
+61,Apple,iPhone 7 Plus 32GB Black (MNQM2),iOS,12412,8100,5.5,32,3687,61.jpeg
+62,Apple,iPhone 8 128GB Gold (MX182),iOS,13575,12099,4.7,128,3687,62.jpeg
+63,Apple,iPhone 8 256GB Space Gray (MQ7F2),iOS,14817,8505,4.7,256,2227,63.jpeg
+64,Apple,iPhone SE 128GB Space Grey (MP862),iOS,10260,6100,4,128,1570,64.jpeg
+65,Apple,iPhone SE 16GB Space Gray (MLLN2),iOS,6240,4200,4,16,1570,65.jpeg
+66,Apple,iPhone X 256GB Silver (MQAG2),iOS,18713,9835,5.8,256,1715,66.jpeg
+67,Apple,iPhone X 64GB Space Gray (MQAC2),iOS,14185,11000,5.8,64,1715,67.jpeg
+68,Apple,iPhone XR 128GB Black (MRY92),iOS,19050,13580,6.1,128,1715,68.jpeg
+69,Apple,iPhone XR 128GB Slim Box Black (MH7L3),iOS,19810,17680,6.1,128,2915,69.jpeg
+70,Apple,iPhone XS 256GB Gold (MT9K2),iOS,21463,15281,5.8,256,1960,70.jpeg

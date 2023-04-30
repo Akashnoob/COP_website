@@ -1,0 +1,14 @@
+{% extends "base.html" %} {% block title %}Sign Up{% endblock %} {% block
+    content %}
+    <h1>Cart</h1>
+    {% if cart and cart.product_list %}
+      {% for product, quantity in product_quantities %}
+        <p>{{ product.name }} - Quantity: {{ quantity }}</p>
+      {% endfor %}
+      <p>Total: {{ total }}</p>
+    {% else %}
+      <p>Your cart is empty.</p>
+    {% endif %}
+    <a href="{{ url_for('views.home') }}">Continue shopping</a>
+
+ {% endblock %}
